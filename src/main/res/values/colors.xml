@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="google">#E6D64A</color>
+    <color name="facebook">#1C51D5</color>
+    <color name="Primary">#58C82F</color>
+    <color name="PrimaryDark">#0E2C01</color>
+    <color name="Accent">#000000</color>
+    <color name="selected_icon">#58C82F</color>
+    <color name="unselected_icon">#0E2C01</color>
+</resources>

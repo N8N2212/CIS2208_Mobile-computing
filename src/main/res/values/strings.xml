@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyFitness</string>
+    <string name="username_hint">Username or Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_header">Log In to MyFitness</string>
+    <string name="google_sign_in">log in with Google</string>
+    <string name="facebook_sign_in">log in with Facebook</string>
+    <string name="register_prompt">Do not have an account? Register here</string>
+    <string name="forgot_password">Forgot password?r</string>
+    <string name="other_option">- other sign in options -</string>
+    <string name="register_header">Create Account</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="phone_hint">Phone</string>
+    <string name="email_hint">Email address</string>
+    <string name="password_hint2">Password</string>
+    <string name="register_button">Create Account</string>
+    <string name="login_prompt">Already have an account? Login</string>
+    <string name="title_activity_login">login_activity</string>
+    <string name="title_activity_register">register_activity</string>
+    <string name="title_activity_main">main_activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_bmi">BMI</string>
+    <string name="delete_preset">delete</string>
+</resources>
